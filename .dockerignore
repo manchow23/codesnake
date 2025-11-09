@@ -1,0 +1,5 @@
+# ignore common stuff
+.git
+.gitignore
+node_modules
+*.log
